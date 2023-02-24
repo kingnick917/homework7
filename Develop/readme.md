@@ -1,4 +1,4 @@
-# ggg
-  nick
-  pizza
+# student
+  Nicholas 
+  Professional README Generator
 
