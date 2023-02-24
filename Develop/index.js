@@ -20,6 +20,12 @@ const questions = [
       message: 'what is your title :',
       name: 'title',
     },
+    {
+      type: 'input',
+      message: 'What is your License ?',
+      name:'License'
+    }
+
   ]
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
